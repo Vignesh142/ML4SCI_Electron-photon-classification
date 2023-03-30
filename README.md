@@ -26,3 +26,15 @@ Tensorflow/keras model architecture
 # Testing the model
 
 ![image](https://user-images.githubusercontent.com/101886482/228749838-580c27d1-203f-4b4a-abf8-70d9c0b3b74a.png)
+
+# Pytorch Implementation
+
+![image](https://user-images.githubusercontent.com/101886482/228750074-aa49a484-8447-4dbb-9591-f1cb5ed73121.png)
+
+## Model
+
+![image](https://user-images.githubusercontent.com/101886482/228750236-60cb55d5-d7ce-44cc-b533-702f2213aa01.png)
+
+### Saving Model
+![image](https://user-images.githubusercontent.com/101886482/228750366-884c219c-e046-48ca-a7bf-728221632303.png)
+
