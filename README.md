@@ -13,5 +13,16 @@ PyTorch). Please provide a Jupyter notebook that shows your solution. The model 
 
 # Sample Code
 ![image](https://user-images.githubusercontent.com/101886482/228748652-3aeb8bff-7846-4c6b-a655-ad0142876927.png)
+
 Visualisaztion of data for electron is above and below is data of Photon
+
 ![image](https://user-images.githubusercontent.com/101886482/228748851-9b484100-e310-4dc3-ad54-ac737bd0aabc.png)
+
+# Model
+Tensorflow/keras model architecture
+
+![image](https://user-images.githubusercontent.com/101886482/228749156-66ddc6b1-ef16-4c35-896a-30b8f8d47d88.png)
+
+# Testing the model
+
+![image](https://user-images.githubusercontent.com/101886482/228749838-580c27d1-203f-4b4a-abf8-70d9c0b3b74a.png)
